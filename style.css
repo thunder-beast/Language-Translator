@@ -112,7 +112,7 @@ li,
 
 .text-input textarea::-webkit-scrollbar-track,
 .controls .row select::-webkit-scrollbar-track {
-    background: #fff;
+    background: #8c8c8c;
 }
 
 .text-input textarea::-webkit-scrollbar-thumb {
@@ -147,7 +147,7 @@ li,
     margin-top: 20px;
     font-size: 17px;
     border-radius: 5px;
-    background: #4d7e80;
+    background: #127e82;
 }
 
 @media (max-width: 660px) {
